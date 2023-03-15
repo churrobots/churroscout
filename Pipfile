@@ -9,6 +9,9 @@ tbapy = "*"
 ipydatagrid = "*"
 pandas = "*"
 bqplot = "*"
+flake8 = "*"
+numpy = "*"
+black = "*"
 
 [dev-packages]
 
