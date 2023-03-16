@@ -12,6 +12,8 @@ bqplot = "*"
 flake8 = "*"
 numpy = "*"
 black = "*"
+plotly = "*"
+nbformat = "==5.1.2"
 
 [dev-packages]
 
