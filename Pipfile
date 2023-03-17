@@ -14,6 +14,9 @@ numpy = "*"
 black = "*"
 plotly = "*"
 nbformat = "==5.1.2"
+voila = "*"
+cryptography = "*"
+ipywidgets = "==7.7.2"
 
 [dev-packages]
 
