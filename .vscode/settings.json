@@ -1,0 +1,10 @@
+{
+  "files.exclude": {
+    ".gitignore": true,
+    ".vscode": true,
+    "TUTORIAL_PLAN.md": true,
+    "CONCEPTS.md": true,
+    "TUTORIAL_PROGRESS.md": true,
+    "LEARNINGS.md": true
+  }
+}
